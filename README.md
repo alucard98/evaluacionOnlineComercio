@@ -1,5 +1,5 @@
 # evaluacionOnlineComercio
-Autor: Jean Harold Varas Ramirez
+Autor: Jean Harold Varas Ramirez <br>
 Edad : 26
 Universidad : UTP
 Carrera : Ingenieria de Sistemas
