@@ -1,7 +1,9 @@
 # evaluacionOnlineComercio
 Autor: Jean Harold Varas Ramirez <br>
-Edad : 26
-Universidad : UTP
-Carrera : Ingenieria de Sistemas
-Telefono: 945019336
-Correo: thewiner57@gmail.com
+Edad : 26<br>
+Universidad : UTP<br>
+Carrera : Ingenieria de Sistemas<br>
+Telefono: 945019336<br>
+Correo: thewiner57@gmail.com<br>
+
+
